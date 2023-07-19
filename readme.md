@@ -26,4 +26,4 @@ To deploy django apps in more streamlined way and to eliminate repetative task d
     
 The wp means "with project" is not set then the project zip file will not be uploaded.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/pavanbaddi/auto-deployment-of-django-app-script/blob/master/img.png?raw=true)
