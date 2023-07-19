@@ -1,0 +1,3 @@
+*.zip
+*.conf
+__pycache__/
