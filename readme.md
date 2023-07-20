@@ -2,7 +2,11 @@
 # Auto Deployment of Django App
 
 ## Motivation
-To deploy django apps in more streamlined way and to eliminate repetative task during django app deployment.
+To deploy django apps in more streamlined way and to eliminate repetitive task during django app deployment.
+
+## Requirements
+- Tested with python version 3.9.6
+- Python fabric library
 
 ## Description
 - Create a Django project and during deployment zip the file from inside and name the zip file as `app.zip`. Also note before zipping update the `ALLOWED_HOSTS` and `DATABASE` in settings.py
