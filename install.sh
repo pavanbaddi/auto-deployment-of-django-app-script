@@ -5,7 +5,6 @@ does_meets_min_python_requirement=false
 min_python_version_required=3.9
 python_version_to_be_installed="3.9.6"
 installation_directory_path="/installations/"
-python_installation_url="https://www.python.org/ftp/python/3.9.6/Python-3.9.6.tgz"
 project_directory="/var/www/html/django_app/"
 
 
